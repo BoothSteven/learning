@@ -1,0 +1,23 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "Just a bit of messing about with node and learning things",
+  "main": "my_parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoothSteven/learning.git"
+  },
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "author": "BoothSteven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoothSteven/learning/issues"
+  },
+  "homepage": "https://github.com/BoothSteven/learning#readme"
+}
